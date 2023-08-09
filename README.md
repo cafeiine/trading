@@ -1,13 +1,9 @@
-# trading
+### IG_Connect_v0.6_public.xlsb
+Excel file to interact wit IG broker, so it is only for traders with IG Account.
 
-# -------------------------------------------------------------------------
-# IG_Connect_v0.6_public.xlsb
+---
+#### sheet "12-daily-winloss"  : Provide alarm for DailyLoss/Dailywin trading
 
-# Sheet "12-daly-winloss" 
-# Alarm for DailyLoss/Dailywin for traders with IG Account
-
-# Sheet "param" 
-# IG Configuration( ApiKey, Login, Password )
-# PushBulet configuration (ApiKey)
+![IG_Connext__DailyWinLoss](https://github.com/cafeiine/trading/assets/126119622/1f72fbc6-c791-446a-9c10-47954b8e5927)
 
 
